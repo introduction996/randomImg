@@ -1,0 +1,17 @@
+{
+  "name": "js-web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "intro96",
+  "license": "ISC",
+  "dependencies": {
+    "loader.js": "^4.7.0",
+    "node.js": "0.0.1-security",
+    "puppeteer": "^19.0.0"
+  }
+}
